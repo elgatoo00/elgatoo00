@@ -2,12 +2,26 @@
   <img src="./assets/dd.gif" width="100%" alt="Animation banner">
 </p>
 
-<h1 align="center"> 
-┌──(Meriem㉿kali)-[~] <br>
+<table>
+<tr>
+<td>
+
+<h1>
+
+┌──(Meriem㉿kali)-[~]<br>
 └─$ cat profile.txt
 
-
 </h1>
+
+</td>
+
+<td>
+
+<img src="./assets/dd.gif" width="180">
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 🎓 Étudiante en <b>2ème année de BTS SIO - Option SISR</b><br>
