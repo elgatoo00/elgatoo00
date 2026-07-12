@@ -1,7 +1,7 @@
 
-<table>
+<table  align="center">
 <tr>
-<td>
+<td >
 
 <h1>
 
