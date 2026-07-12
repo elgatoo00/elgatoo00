@@ -3,7 +3,15 @@
 </p>
 
 <h1 align="center">
-✨ Hello ✨
+
+┌──(meriem㉿kali)-[~]
+└─$ cat profile.txt
+
+Name: Meriem M'barki
+🎓 Study: BTS SIO SISR Option SISR
+🖥️Interest: Cybersecurity & Networks
+🚀Status: Looking for internship 
+
 </h1>
 
 <p align="center">
