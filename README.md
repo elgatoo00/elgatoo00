@@ -2,8 +2,12 @@
   <img src="./assets/dd.gif" width="100%" alt="Animation banner">
 </p>
 
-<h1 align="center">
+<h1 align="center"> 
+┌──(meriem㉿kali)-[~]
+└─$ cat profile.txt
 
+
+</h1>
 ┌──(meriem㉿kali)-[~]
 └─$ cat profile.txt
 
@@ -11,8 +15,6 @@ Name: Meriem M'barki
 🎓 Study: BTS SIO SISR Option SISR
 🖥️Interest: Cybersecurity & Networks
 🚀Status: Looking for internship 
-
-</h1>
 
 <p align="center">
 🎓 Étudiante en <b>2ème année de BTS SIO - Option SISR</b><br>
