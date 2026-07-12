@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/dd.gif" width="100%" alt="Animation banner">
-</p>
 
 <table>
 <tr>
