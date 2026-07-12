@@ -68,7 +68,7 @@ J'aime également développer mes connaissances à travers des challenges pratiq
   🟩🟩🟩🟩🟩🟩🟩🟩🟩
 </p>
 ```
-
+<img src="./dd.gif" width="200px" alt="Animation">
 
 <!--
 **elgatoo00/elgatoo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
