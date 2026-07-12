@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-✨ Bonjour, je suis Meriem ✨
+✨ Hello ✨
 </h1>
 
 <p align="center">
