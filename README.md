@@ -17,6 +17,9 @@
 🚀 Recherche également une <b>alternance à partir de septembre 2027</b>
 </p>
 
+## 🌐 Portfolio en ligne
+https://elgatoo00.github.io/portfolio
+
 ---
 
 ## 🌙 À propos de moi
