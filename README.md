@@ -55,6 +55,14 @@ J'aime également développer mes connaissances à travers des challenges pratiq
 
 ---
 
+## Mini projet 
+
+Application moderne de suivi de candidatures conçue pour aider les étudiants et les chercheurs d'emploi à organiser efficacement leurs recherches.
+
+🌐 **ProgressMist :** https://elgatoo00.github.io/ProgressMist/#/dashboard
+
+---
+
 ## 💌 Disponibilités
 
 📌 Recherche :
