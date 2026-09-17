@@ -24,7 +24,7 @@
 🎓 Étudiante en <b>2ème année de BTS SIO - Option SISR</b><br>
 🖥️ Intéressée par les <b>systèmes, réseaux et la cybersécurité</b><br><br>
 
-📅 À la recherche d'un <b>stage en informatique du 14 décembre 2026 au 22 janvier 2027</b><br>
+📅 À la recherche d'un <b>stage en informatique du 14 décembre 2026 au 29 janvier 2027</b><br>
 🚀 Recherche également une <b>alternance à partir de septembre 2027</b>
 </p>
 
